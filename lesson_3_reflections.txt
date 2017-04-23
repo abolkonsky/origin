@@ -3,12 +3,12 @@ local?
 
     When I would want to publish my project in order to make it possilbe for collaboration 
     of other members on it, code review, project sharing or simply make a cloud backup copy 
-    of my repository.
+    of my local repository.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    I want to control when to pull content and what branch to pull from my remote.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
