@@ -43,4 +43,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I would want to include others in collaboration about commiting theese changes: code reviewing 
+    and commenting proposed changes before finally beong accepted and merged into master branch. The benefit
+    would be stonger focus on collaboration and the benefit of the direkt pushing/pulling form to master remote 
+    branch is simpler confict resolving scenario.
