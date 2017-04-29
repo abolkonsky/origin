@@ -30,7 +30,15 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I could use e-mail service to initialy share my project repository and to later note some or all
+    colaborators on changges I am making in projects. Or I could use cloud drive service
+    (dropbox, google-drive etc.) to emulate a storage for git-hubs remote repository functionality and 
+    then I would make notices via e-mail sender lists about changes in repository. And vice-versa,  
+    they could notice me about their updates in repository too.
+    Handling merge conflicts would be much harder because there is no commit labels and graphical
+    user interface to coordinate the process. Also there is no predefined set of GIT commands which 
+    unify and standardise user actions of colaborating on repository maintenance. All that could be 
+    harder to emulate manually ...
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
