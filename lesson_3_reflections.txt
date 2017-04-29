@@ -23,7 +23,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    That way we are able to determine if the remote repository has some new commits since we 
+    have last time fetched from it. This makes it possible to decide whether merge commit or  
+    fast forward commit will be applied.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
